@@ -1,4 +1,4 @@
-## Ola, meu nome é Abel/Julia, sou aluna do SENAI Suíço Brasileira.
+## Olá, meu nome é Abel/Julia
 
 <!--
 **juliaviana-sudo/juliaviana-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
