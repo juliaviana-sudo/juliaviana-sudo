@@ -1,8 +1,4 @@
 ## Ola, meu nome é Abel/Julia, sou aluna do SENAI Suíço Brasileira.
-Hobbie favorito: Tocar guitarra.
-Turma; B
-Disciplina: APIC 
-Curso: Manufatura Digital 
 
 <!--
 **juliaviana-sudo/juliaviana-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
